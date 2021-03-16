@@ -1,0 +1,15 @@
+
+.head{
+    --background: black;
+    color: white;
+}
+div.gallery{
+    margin: 5px;
+    border: 1px solid indianred;
+    float: left;
+    width: 150px;
+}
+div.gallery:hover{
+    border:1px solid grey;
+    width: 150px;
+}
