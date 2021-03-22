@@ -1,14 +1,30 @@
-.head1{
-    --background: black;
-    color: white;
+.head2{
+    --background: indianred;
+    color: rgb(248, 231, 209);
 }big{
     font-size: 30px;
-    margin-left: 25px;
+    margin-left: 30px;
 }
 ion-card{
-
-    width: 200%;
-    font-size: 20px;
-    background-color: black;
-    color: white;
+    margin-top: 60px;
+    margin-left: 100px;
+    width: 40%;
+    border: 2px solid burlywood;
+    float: left;
+}
+ion-list{
+    width: 40%;
+    float: right;
+    margin-right: 80px;
+    margin-top: 60px;
+}
+ion-button{
+    width: 70%;
+    margin-bottom: 30px;
+}
+ion-list:hover {
+    border: 2px solid burlywood;
+}
+h2{
+    margin-bottom: 8px;
 }
