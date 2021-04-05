@@ -1,6 +1,6 @@
 .head2{
-    --background: indianred;
-    color: rgb(248, 231, 209);
+    --background: black;
+    color: white;
 }big{
     font-size: 30px;
     margin-left: 30px;
@@ -9,7 +9,7 @@ ion-card{
     margin-top: 60px;
     margin-left: 100px;
     width: 40%;
-    border: 2px solid burlywood;
+    border: 2px solid white;
     float: left;
 }
 ion-list{
@@ -23,7 +23,7 @@ ion-button{
     margin-bottom: 30px;
 }
 ion-list:hover {
-    border: 2px solid burlywood;
+    border: 2px solid white;
 }
 h2{
     margin-bottom: 8px;
